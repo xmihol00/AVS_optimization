@@ -10,5 +10,5 @@ The following plots show, which area (green) does not have to be computed from t
 ![](./plots/line_rectangle_2048.png)
 
 ### Matrix size 12288x8192
-64.48 % converging values can be skipped:
+46.25 % converging values can be skipped:
 ![](./plots/line_rectangle_4096.png)
